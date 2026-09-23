@@ -12,8 +12,14 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 org_settings:
+  
   fleet_desktop:
     transparency_url: https://pointerpointer.com
+  
+  webhook_settings:
+    activities_webhook: true
+      destination_url: http://webhook.site/e33d5380-2c51-4cce-ac2b-9c3dd02df885
+  
   org_info:
     ###########################################################
     # The name of your organization is displayed to end users
@@ -23,7 +29,7 @@ org_settings:
     # Read more:
     #   • https://fleetdm.com/docs/configuration/yaml-files#org-info
     ###########################################################
-    org_name: ALsTalent
+    org_name: ALsTalent Computer Services
 
   server_settings:
     ###########################################################
