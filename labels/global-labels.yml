@@ -2,7 +2,7 @@
   description: Hosts belonging to members of the Engineering department
   label_membership_type: host_vitals
   criteria:
-	vital: end_user_idp_department
-	value: Engineering
+    vital: end_user_idp_department
+    value: Engineering
 	
 - path: ./labels/*.yml
